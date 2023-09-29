@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "227967740784",
+    "firebase_url": "https://kotlinprojektgrit-default-rtdb.europe-west1.firebasedatabase.app/",
+    "project_id": "kotlinprojektgrit",
+    "storage_bucket": "kotlinprojektgrit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227967740784:android:4347bc9d2a64d26e807db5",
+        "android_client_info": {
+          "package_name": "com.example.kasperlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227967740784-u0h3d8hc0ujjg9j8jt4b9jethfvthlte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABm8fdnXVdkFkkDFpNQT0vMrL3KPOuF1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227967740784-u0h3d8hc0ujjg9j8jt4b9jethfvthlte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227967740784:android:12e664eefec9ec6d807db5",
+        "android_client_info": {
+          "package_name": "com.example.mobilt_java22_kasper_loontjens_slutprojekt_sprint_v_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227967740784-u0h3d8hc0ujjg9j8jt4b9jethfvthlte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABm8fdnXVdkFkkDFpNQT0vMrL3KPOuF1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227967740784-u0h3d8hc0ujjg9j8jt4b9jethfvthlte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
